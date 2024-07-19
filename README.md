@@ -36,10 +36,10 @@ Figure out why customers are churning at the rate they are, by visualizing the d
 | Number of <br> customers in <br> a group | Number of customers part of the group |
 
 
-| **Subscription types & Charges** | |
-| Account length <be< in months | The number of months the customer has been with Databel |
+| **Subscription types & Charges** |  |
+| Account length <br> in months | The number of months the customer has been with Databel |
 | Local Calls                   | Amount of local (within the US) calls from the customer |
-| Intl Calls     | Amount of international (outside the US) calls <be> from the customer |
+| Intl Calls     | Amount of international (outside the US) calls <br> from the customer |
 | Intl Mins     | The number of minutes spent calling internationally. <br> Intl Active: Indicates if the customer called <br> internationally with a "Yes" or "No" |
 | Intl Plan     | Indicates if the customer has a premium plan to <br> call internationally for free with "Yes" or "No". This <br> premium is reflected in the monthly charge. |
 | Extra International <br> charges     | Contains the extra charges for international calls <br> for customers who are not on an international plan |
