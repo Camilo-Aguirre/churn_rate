@@ -10,14 +10,14 @@ Figure out why customers are churning at the rate they are, by visualizing the d
 
 ## Data dictionary | Metadata
 
-| **Customers status** | - |
+| **Customers status** |   |
 | ------------------|---------------------------------------------|
 | Customer ID | The unique ID that identifies a customer |
 | Churn Label | Contains "Yes" or "No" to indicate if a customer churned |
 | Churn Reason| The particular reason why the customer ended the contract |
 | Churn Category | Groups multiple churn reasons together for analysis purposes |
 
-| **Demographics** | - |
+| **Demographics** |   |
 | -----------------|----------------------------------------------|
 | Gender | The gender of the customer, indicated by "Male", "Female" |
 | Under 30 | Indicates if the customer is under 30 with "Yes" or "No" |
