@@ -36,19 +36,19 @@ Figure out why customers are churning at the rate they are, by visualizing the d
 | Number of <br> customers in <br> a group | Number of customers part of the group |
 
 
-| **Subscription types & Charges** |  |
+| **Subscription types & Charges** | |
 | Account length <be< in months | The number of months the customer has been with Databel |
 | Local Calls                   | Amount of local (within the US) calls from the customer |
 | Intl Calls     | Amount of international (outside the US) calls <be> from the customer |
 | Intl Mins     | The number of minutes spent calling internationally. <br> Intl Active: Indicates if the customer called <br> internationally with a "Yes" or "No" |
 | Intl Plan     | Indicates if the customer has a premium plan to <br> call internationally for free with "Yes" or "No". This <br> premium is reflected in the monthly charge. |
 | Extra International <br> charges     | Contains the extra charges for international calls <br> for customers who are not on an international plan |
-| Customer Service <br> Calls           | The number of calls made to customer service |
-| Avg Monthly GB <br> download           | Contains the average monthly download volume <br> in gigabytes |
-| Unlimited Data <br> Plan               | Indicates of the customer has free unlimited <br> download capacity with "yes" or "No". This premium <br> is reflected in the monthly charge. |
-| Extra Data Charges                      | Contains the extra charges for data downloads for <br> customers who are not on an unlimited plan |
-| Monthly Charges                        | Average of all Monthly Charges to the customer |
-| Total Charges                         | Sum of all monthly charges |
+| Customer Service <br> Calls | The number of calls made to customer service |
+| Avg Monthly GB <br> download | Contains the average monthly download volume <br> in gigabytes |
+| Unlimited Data <br> Plan| Indicates that the customer has free unlimited <br> download capacity with "yes" or "No". This premium <br> is reflected in the monthly charge. |
+| Extra Data Charges | Contains the extra charges for data downloads for <br> customers who are not on an unlimited plan |
+| Monthly Charges    | Average of all Monthly Charges to the customer |
+| Total Charges | Sum of all monthly charges |
 
 ## Log
 
