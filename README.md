@@ -37,6 +37,7 @@ Figure out why customers are churning at the rate they are, by visualizing the d
 
 
 | **Subscription types & Charges** |  |
+| ------------------------------ | -----------|
 | Account length <br> in months | The number of months the customer has been with Databel |
 | Local Calls                   | Amount of local (within the US) calls from the customer |
 | Intl Calls     | Amount of international (outside the US) calls <br> from the customer |
