@@ -28,7 +28,7 @@ Figure out why customers are churning at the rate they are, by visualizing the d
 
 | **Contract information** |  |
 | -------------- | --------------- |
-| Contract Type   | Contains "Month-toMonth", "One Year" or "Two year" |
+| Contract Type   | Contains "Month-to-Month", "One Year" or "Two years" |
 | Payment Method   | Preferred payment method of the customer indicated <br> with "Credit Card", "Direct Debit" or "Paper Check" |
 | State            | The code of the state where the customer lives |
 | Phone Number   | Phone number of the customer |
