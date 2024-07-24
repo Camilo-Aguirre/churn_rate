@@ -53,4 +53,28 @@ Figure out why customers are churning at the rate they are, by visualizing the d
 
 ## Log
 
+1. Exploratory analysis: 
+  - Data checking
+  - Churn calculations
+  - Digging into churn categories
+2. Calculation of new variables and columns to understand churn
+3. Track tendencies: 
+  - Demographics analysis
+  - Age grouping
+  - Zooming out
+  - Exploration of Unlimited plan, International calls, Contract types.
+4. Visualizing the analysis: 
+  - Dashboarding geographic trends with maps
+  - Splitting age brackets and groups
+  - Diagram payment method, contract categories, international and data plans.
+
 ## Conclusions
+
+- The churn rate among senior citizens is 38.46%, compared to approximately 24% for younger customers.
+- The churn rate is highest among users over the age of 50.
+- The primary reason for customer churn is that competitors offer better deals.
+- Customers can form groups within their contracts. Users in groups experience significantly lower churn rates. Those without a group pay, on average, about €11 more than group members, with a churn rate of 32%, compared to an average churn rate of 8% for individuals in groups of 2 to 6 people.
+- The churn rate for customers with monthly contracts is significantly higher at 46.29%, compared to 6.62% for those with yearly contracts.
+- 51% of Databel's clients have monthly contracts.
+- Considering whether customers pay for unlimited data plans and their actual data usage, the highest churn rate is among users who pay for unlimited plans but use less than 5 GB per month (nearly 35%). The churn rate remains high (33%) for users with unlimited plans who use between 5 and 10 GB per month. For clients who use 10 GB or more, the churn rate is around 27%, which is still considerable.
+
