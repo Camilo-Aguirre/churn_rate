@@ -70,11 +70,29 @@ Figure out why customers are churning at the rate they are, by visualizing the d
 
 ## Conclusions
 
-- The churn rate among senior citizens is 38.46%, compared to approximately 24% for younger customers.
-- The churn rate is highest among users over the age of 50.
-- The primary reason for customer churn is that competitors offer better deals.
-- Customers can form groups within their contracts. Users in groups experience significantly lower churn rates. Those without a group pay, on average, about €11 more than group members, with a churn rate of 32%, compared to an average churn rate of 8% for individuals in groups of 2 to 6 people.
-- The churn rate for customers with monthly contracts is significantly higher at 46.29%, compared to 6.62% for those with yearly contracts.
-- 51% of Databel's clients have monthly contracts.
-- Considering whether customers pay for unlimited data plans and their actual data usage, the highest churn rate is among users who pay for unlimited plans but use less than 5 GB per month (nearly 35%). The churn rate remains high (33%) for users with unlimited plans who use between 5 and 10 GB per month. For clients who use 10 GB or more, the churn rate is around 27%, which is still considerable.
+### Business Intelligence Analysis: Churn Rate Insights
 
+1. **Age-related Churn Trends**
+   - Senior citizens (60+ years) have a churn rate of 38.46%, compared to 24% for younger customers.
+   - Churn rate peaks among users aged 80+, reaching 52%. 
+   - Users aged 20-60 have an average churn rate of 24%, which steadily increases with age.
+
+2. **Contract Duration and Churn**
+   - Monthly contracts exhibit a significantly higher churn rate of 46.29% compared to 6.62% for yearly contracts.
+   - Over half (51%) of Databel clients are on monthly contracts.
+   - Churn rates in monthly contracts remain high regardless of contract length, with rates such as 57% for 8 months, 28% for 16 months, and nearly 54% for 18.75 months.
+   - Yearly contracts show a decrease in churn rates over time, with 8% for contracts active for 35 months.
+
+3. **Contract Groups and Churn**
+   - Clients in contract groups (2-6 people) have an average churn rate of 8%.
+   - Those not in a group pay about €11 more and have a higher churn rate of 32%.
+
+4. **Unlimited Data Plans and Usage**
+   - Users with unlimited data plans but using less than 5 GB per month have a churn rate of nearly 35%.
+   - Those using 5-10 GB per month also have a high churn rate of 33%.
+   - Clients using 10 GB or more have a lower, but still significant, churn rate of 27%.
+
+5. **Primary Reason for Churn**
+   - The most common reason for customers leaving is better offers from competitors.
+
+These insights highlight key areas for potential intervention to reduce churn, such as addressing pricing structures for senior citizens, offering incentives for longer contract durations, promoting contract groups, and tailoring unlimited data plans to actual usage.
