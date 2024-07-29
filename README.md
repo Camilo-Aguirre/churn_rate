@@ -94,5 +94,3 @@ Figure out why customers are churning at the rate they are, by visualizing the d
 
 5. **Primary Reason for Churn**
    - The most common reason for customers leaving is better offers from competitors.
-
-These insights highlight key areas for potential intervention to reduce churn, such as addressing pricing structures for senior citizens, offering incentives for longer contract durations, promoting contract groups, and tailoring unlimited data plans to actual usage.
